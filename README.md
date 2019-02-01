@@ -15,3 +15,4 @@ First, I have trained 2,300 positive and 2,300 negative images of "0" using Goog
 * Python 2.7.15
 * Opencv python
 * Google Cloud Platform
+* Google Text to Speech API
