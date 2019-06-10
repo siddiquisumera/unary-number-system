@@ -1,6 +1,6 @@
 # Teacher-Bot
 This is a Machine Learning Bot which will help windergarten student to learn about Quantty analysis .
-ve have trained 2,300 positve and 2,300 negatve images of '0' using Google Cloud Computng.
+We have trained 2,300 positve and 2,300 negatve images of '0' using Google Cloud Computng.
 ## Table of contents
 * [Introduction](#introduction)
 * [Implementation](#implementation)
