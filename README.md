@@ -1,6 +1,6 @@
 # Teacher-Bot
 This is a Machine Learning Bot which will help kindergarten students to learn about Quantity Analysis .
-We have trained 2,300 positve and 2,300 negatve images of '0' using Google Cloud Platform.
+We have trained 2,300 positive and 2,300 negative images of '0' using Google Cloud Platform.
 ## Table of contents
 * [Introduction](#introduction)
 * [Implementation](#implementation)
